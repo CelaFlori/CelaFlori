@@ -5,7 +5,7 @@
 <h1>
   <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Waving%20Hand.png" alt="Waving Hand Emoji" width="30px"/> 
   Hi, I'm <a href="http://www.Floricela.com/"> Flori</a>!
-  <img align="right" src="https://komarev.com/ghpvc/?username=celaFlori" alt="GitHub profile views counter">
+  <img align="right" src="https://camo.githubusercontent.com/3e24a10b0a13ca191ee62819310444dbc0c9960c0b2c212b921b48c569a9303d/68747470733a2f2f6b6f6d617265762e636f6d2f67687076632f3f757365726e616d653d63656c6164616e69656c" alt="GitHub profile views counter">
 </h1>
 
 <div>
